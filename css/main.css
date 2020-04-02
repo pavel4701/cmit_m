@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+	width: 6%;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.about_project{
+}
+.about_project_video{
+    width: 60%;
+    margin-left: 21%;
+    height: 47vh;
+}
+.video_1{
+	width: 50%;
+    height: 65vh;
+}
+.about_project_foto{
+	display: flex;
+    justify-content: space-around;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.about_project_foto > img{
+    width: 23%;
+}
+.team{
+    display: flex;
+    margin-top: 5%;
+}
+.team_video_1{
+    width: 72vh;
+    height: 67vh;
+    padding: 8%;
+    margin-top: 12%;
+}
+.team_foto_full{
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.team_foto{
+    width: 31%;
+    height: 21vh;
+}
